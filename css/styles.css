@@ -1,16 +1,36 @@
+
+
 body {
   font-family: Arial, sans-serif;
   text-align: center;
   background-color: #f4f4f4;
 }
 .boton-jugada {
-  background-color: #3498db;
+  background-color: lightsalmon;
   color: #fff;
   padding: 10px 20px;
   font-size: 16px;
   cursor: pointer;
+  border-radius: 25px;
+  border-color: black;
+  box-shadow: 7px 7px 7px rgb(90, 90, 90);
 }
 #resultados {
   font-size: 20px;
   margin: 20px 0;
+  
 }
+
+.contadores {
+  border: lightsalmon 2px solid;
+  margin-left: 25%;
+  margin-right: 25%;
+  border-radius: 25px;
+  background-color: rgb(202, 202, 202);
+  box-shadow: 7px 7px 7px rgb(90, 90, 90);
+
+}
+
+
+
+
